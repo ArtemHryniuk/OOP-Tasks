@@ -1,0 +1,12 @@
+/Users/hryniuk.a/OOP-Tasks/Task_7/bin/Debug/netcoreapp3.1/Task_7.deps.json
+/Users/hryniuk.a/OOP-Tasks/Task_7/bin/Debug/netcoreapp3.1/Task_7.runtimeconfig.json
+/Users/hryniuk.a/OOP-Tasks/Task_7/bin/Debug/netcoreapp3.1/Task_7.runtimeconfig.dev.json
+/Users/hryniuk.a/OOP-Tasks/Task_7/bin/Debug/netcoreapp3.1/Task_7.dll
+/Users/hryniuk.a/OOP-Tasks/Task_7/bin/Debug/netcoreapp3.1/Task_7.pdb
+/Users/hryniuk.a/OOP-Tasks/Task_7/obj/Debug/netcoreapp3.1/Task_7.csprojAssemblyReference.cache
+/Users/hryniuk.a/OOP-Tasks/Task_7/obj/Debug/netcoreapp3.1/Task_7.AssemblyInfoInputs.cache
+/Users/hryniuk.a/OOP-Tasks/Task_7/obj/Debug/netcoreapp3.1/Task_7.AssemblyInfo.cs
+/Users/hryniuk.a/OOP-Tasks/Task_7/obj/Debug/netcoreapp3.1/Task_7.csproj.CoreCompileInputs.cache
+/Users/hryniuk.a/OOP-Tasks/Task_7/obj/Debug/netcoreapp3.1/Task_7.dll
+/Users/hryniuk.a/OOP-Tasks/Task_7/obj/Debug/netcoreapp3.1/Task_7.pdb
+/Users/hryniuk.a/OOP-Tasks/Task_7/obj/Debug/netcoreapp3.1/Task_7.genruntimeconfig.cache
