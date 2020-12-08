@@ -8,12 +8,9 @@ namespace Task_8
         {
             Console.OutputEncoding = System.Text.Encoding.UTF8;
             Console.InputEncoding = System.Text.Encoding.UTF8;
-
-            MyComplex A = new MyComplex(1, 1);
-            MyComplex B = new MyComplex();
-            MyComplex C = new MyComplex(1);
-            MyComplex D = new MyComplex();
-
+            
+            MyComplex A = new MyComplex(1, 1), B = new MyComplex(), C = new MyComplex(1), D = new MyComplex();
+            
             Console.WriteLine("Комплексне число B:");
             B.InputFromTerminal();
             Console.WriteLine($"Re(B) = {B["realValue"]}, Im(B) = {B["imageValue"]}");
